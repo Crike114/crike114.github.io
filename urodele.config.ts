@@ -6,9 +6,9 @@ export const config = {
     logInAuthUrl: "",
   },
   head: {
-    title: "Urodele",
-    brand: "Urodele",
-    description: "A self-owned full-static blog system",
+    title: "Crike's Blog",
+    brand: "Crike's Blog",
+    description: "Crike's Blog yes",
   },
   footer: {
     copyright: "© Glink",
